@@ -7,6 +7,9 @@ import android.support.test.rule.UiThreadTestRule;
 import android.support.test.runner.AndroidJUnit4;
 import android.widget.TextSwitcher;
 import android.widget.TextView;
+
+import com.jakewharton.rxbinding2.widget.RxTextSwitcher;
+
 import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;

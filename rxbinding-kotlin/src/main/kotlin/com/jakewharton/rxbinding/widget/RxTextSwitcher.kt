@@ -1,6 +1,7 @@
 package com.jakewharton.rxbinding.widget
 
 import android.widget.TextSwitcher
+import com.jakewharton.rxbinding2.widget.RxTextSwitcher
 import rx.Observable
 import rx.functions.Action1
 
